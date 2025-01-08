@@ -1,0 +1,23 @@
+{
+  "title": "Harry Potter and the Philosopher's Stone",
+  "alternate_title": "Harry Potter and the Sorcerer's Stone",
+  "author": "J.K. Rowling",
+  "publication_details": {
+    "publisher": "Bloomsbury Publishing",
+    "year": 1997,
+    "place": "London"
+  },
+  "content_media_carrier": {
+    "content": "text",
+    "media": "unmediated",
+    "carrier": "volume"
+  },
+  "subject_headings": [
+    "Magic",
+    "Wizards",
+    "Friendship",
+    "Schools"
+  ],
+  "genre_form": "Fantasy fiction"
+}
+
